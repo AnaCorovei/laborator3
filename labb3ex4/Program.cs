@@ -48,7 +48,7 @@ namespace labb3ex4
             }
         }
 
-        //cautam si returnam cel mai mare vector
+        //cautam si returnam cel mai mare numar din vector
          static int CelMaiMareNumarDinVector(int[] v)
         {
             int max = v[0];
@@ -60,7 +60,7 @@ namespace labb3ex4
             return max;
         }
 
-        //cautam si returnam cel mai mic vector
+        //cautam si returnam cel mai mic numar din vector
         static int CelMaiMicNumarDinVector(int[] v)
         {
             int min = v[0];
